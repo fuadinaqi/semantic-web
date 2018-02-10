@@ -1,0 +1,9 @@
+.margining {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#logout {
+  background-color: red;
+  color: white;
+}
